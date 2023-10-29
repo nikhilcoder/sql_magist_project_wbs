@@ -43,3 +43,11 @@ The economic conditions of the deal are already being discussed. But not everyon
 Eniac’s catalogue is 100% tech products and heavily based on Apple-compatible accessories. It is not clear that Magist is a good partner for these high-end tech products.
 Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
 Thankfully, Magist has allowed Eniac to access a snapshot of their database. The data might have the answer to these concerns. Here’s where you come in: you will be the one exploring Magist’s database. On day 5 of your first week, you will meet the board of directors and expose your recommendations.
+
+## Result
+
+Conclusion:
+Partner with Magist as they can potentially provide excellent delivery & high customer satisfaction at an affordable price. 
+
+Caveat:
+Recommend a limited-term partnership for assessing incremental sales and scalability potential of the platform before committing to a long-term contract.
